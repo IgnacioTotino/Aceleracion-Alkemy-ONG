@@ -1,2 +1,2 @@
 # base-ong-server-csharp
-Repositorio base para Caso ONG de C#
+Proyecto ONG, creamos el back-end de una API REST para la ONG utilizando las tecnologias de C# .NET EntityFramework NetCore alojando algunos archivos EN Amazon S3
